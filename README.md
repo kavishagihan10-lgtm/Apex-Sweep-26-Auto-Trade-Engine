@@ -1,8 +1,20 @@
-### 1. HTF Institutional Zones (OB + GP) & Dual EMA 200/400 Confluence
+### 1. How a Trade Forms: HTF Zones (OB + GP) & Dual EMA 200/400 Confirmation
 > *(Paste Screenshot 1 here)*
 
-* **Higher-Timeframe Zones Only (1H / 4H / 1D):** The engine strictly maps Order Blocks (OB) and Golden Pockets (GP) from Higher Timeframes—filtering out low-timeframe noise. When price taps into a 4H or 1D Supply/Demand zone (such as the stacked `1D` & `4H Supply OB/GP ★` zones shown above), lower timeframes (15m / 5m) deliver high-power institutional reversals.
-* **Dual EMA Trend Architecture (200 & 400):**
-  * 🟡 **Yellow (`EMA 200`)** & 🔵 **Blue (`EMA 400`)** are tracked across Higher Timeframes directly on the 15m chart.
-  * **High-Power Directional Alignment:** Price trading below the 4H EMA 200 provides initial bearish confirmation. When price drops below **both the EMA 200 and EMA 400** across 1H, 4H, and 1D (verified live in the right-side Trade Power panel), it confirms maximum institutional selling pressure.
-* **The Core Setup Formula:** `HTF EMA 200/400 Bearish Bias` + `Price Tap into HTF Supply OB/GP` = High-probability LTF (15m/5m) reversal execution.
+#### A. Higher-Timeframe Order Blocks (OB) & Golden Pockets (GP) Only
+* **Strict HTF Filtering (Above 15m):** This engine plots Order Blocks and Golden Pockets exclusively from Higher Timeframes (**1H, 4H, and 1D**) — never from noisy lower timeframes.
+* **Why HTF Beats LTF:** A `4H` or `1D` zone carries significantly more institutional power than a `15m` or `5m` chart. Whenever price taps into a confirmed `4H` or `1D` OB/GP, lower timeframes (`15m` / `5m`) naturally react with strong, high-momentum reversals. This acts as **Core Confirmation #1**.
+
+#### B. Dual EMA Trend Direction (200 EMA vs. 400 EMA)
+To confirm the exact market direction before taking any zone reaction, the engine integrates two color-coded HTF Exponential Moving Averages:
+* 🟡 **Yellow Line — `200 EMA` (Initial Directional Confirmation)**
+* 🔵 **Blue Line — `400 EMA` (High-Power Institutional Confirmation)**
+
+**Step-by-Step Example (Using the 4H Timeframe):**
+1. **Level 1 Confirmation (200 EMA):** When price on the `4H` chart drops below the **Yellow 200 EMA**, the engine registers the first confirmation that market direction has shifted to **SELL**.
+2. **High-Power Confirmation (200 + 400 EMA Combined):** When price breaks and stays below **both the 200 EMA and the Blue 400 EMA** across Higher Timeframes (`4H` / `1D`), directional strength multiplies — confirming a **High-Power Sell Bias**.
+
+#### C. Putting It Together (One Core Trade Execution Method)
+1. **HTF Direction Locked:** `4H` / `1D` price is trading below both the `200 EMA` (Yellow) and `400 EMA` (Blue) → High-Power Sell direction confirmed.
+2. **HTF Zone Tap:** Price retraces and taps into a Higher-Timeframe Sell `OB` or `GP` (`4H` / `1D`).
+3. **LTF High-Power Reversal:** With HTF direction and HTF institutional zones fully aligned, the `15m` / `5m` execution chart triggers a sharp, high-probability reversal entry.
