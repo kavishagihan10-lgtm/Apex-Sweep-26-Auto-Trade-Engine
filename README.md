@@ -1,3 +1,4 @@
+<img width="2752" height="1536" alt="Gemini_Generated_Image_kbql59kbql59kbql" src="https://github.com/user-attachments/assets/042c7626-ff58-4f9b-9f31-ce9cd81aa8b5" />
 # ⚡ Apex-Sweep: 26-Engine Institutional Confluence & Auto-Trade System
 **Advanced Multi-Timeframe Smart Money Concepts (SMC) & Algorithmic Confirmation Engine for TradingView (Pine Script v6)**
 
