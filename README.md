@@ -3,7 +3,7 @@
 
 ---
 
-### 1. How a Trade Forms: HTF Zones (OB + GP) & Dual EMA 200/400 Confirmation
+### 1. HTF Institutional Market Confirmation: Dual EMA Direction & 4H/1D OB/GP Reversals
 
 <img width="1815" height="920" alt="XAUUSD_2026-11-22_23-43-41" src="https://github.com/user-attachments/assets/238b4ae8-1901-4b7a-9c36-c6a663df6a2b" />
 
@@ -20,4 +20,7 @@ To confirm the exact market direction before taking any zone reaction, the engin
 1. **Level 1 Confirmation (200 EMA):** When price on the `4H` chart drops below the **Yellow 200 EMA**, the engine registers the first confirmation that market direction has shifted to **SELL**.
 2. **High-Power Confirmation (200 + 400 EMA Combined):** When price breaks and stays below **both the 200 EMA and the Blue 400 EMA** across Higher Timeframes (`4H` / `1D`), directional strength multiplies — confirming a **High-Power Sell Bias**.
 
-#### C. Putting It
+#### C. Putting It Together (One Core Trade Execution Method)
+1. **HTF Direction Locked:** `4H` / `1D` price is trading below both the `200 EMA` (Yellow) and `400 EMA` (Blue) → High-Power Sell direction confirmed.
+2. **HTF Zone Tap:** Price retraces and taps into a Higher-Timeframe Sell `OB` or `GP` (`4H` / `1D`).
+3. **LTF High-Power Reversal:** With HTF direction and HTF institutional zones fully aligned, the `15m` / `5m` execution chart triggers a sharp, high-probability reversal entry.
