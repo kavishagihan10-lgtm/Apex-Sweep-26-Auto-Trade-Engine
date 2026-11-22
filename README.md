@@ -24,3 +24,24 @@ To confirm the exact market direction before taking any zone reaction, the engin
 1. **HTF Direction Locked:** `4H` / `1D` price is trading below both the `200 EMA` (Yellow) and `400 EMA` (Blue) → High-Power Sell direction confirmed.
 2. **HTF Zone Tap:** Price retraces and taps into a Higher-Timeframe Sell `OB` or `GP` (`4H` / `1D`).
 3. **LTF High-Power Reversal:** With HTF direction and HTF institutional zones fully aligned, the `15m` / `5m` execution chart triggers a sharp, high-probability reversal entry.
+
+---
+
+### 2. Automated Trade Execution: 26-Engine Live Confluence Scoring & Multi-Timeframe Sync
+
+<!-- මෙතනට ඔයාගේ 15m / 1H Auto-Entry Chart Screenshot එක Attach කරන්න -->
+
+#### A. The 26-Engine Live Institutional Dashboard
+- **Real-Time Confluence Calculation:** Positioned cleanly on the right side of the chart, the system continuously evaluates **26 independent analytical engines** in real time.
+- **Dynamic Directional Header:** The top label of the dashboard automatically identifies and displays the active market bias (**BUY** or **SELL**), dynamically scoring how many of the 26 engines align with that exact direction.
+
+#### B. Precision Auto-Entry & Risk Management (`18+ / 26` Threshold)
+- **Zero-Emotion Algorithmic Trigger:** The moment the live confluence score hits the institutional threshold (typically **18 / 26 or higher**), the engine automatically executes and plots the trade directly on the chart.
+- **Complete Trade Mapping:** Every automated signal comes pre-calculated with exact risk-management levels:
+  - 🎯 **Automated Entry Level**
+  - 🛡️ **Dynamic Stop Loss (`SL`)**
+  - 💰 **Dual Take-Profit Targets (`TP1` & `TP2`)**
+
+#### C. Ultra-High-Confirmation Setup: `15m` + `1H` Simultaneous Alignment
+- **Multi-Timeframe Institutional Sync:** When the engine fires automated entries on **both the `15m` and `1H` charts within the same timeline**, it signals an **Ultra-High-Confirmation Setup**.
+- **Why `1H` + `15m` Matters:** In institutional trading, the **`1H` timeframe** acts as the critical bridge — it validates the macro **`4H` directional bias** before filtering down to Lower Timeframe (`15m`) execution. When both `1H` and `15m` align simultaneously, trade accuracy and momentum reach peak probability.
