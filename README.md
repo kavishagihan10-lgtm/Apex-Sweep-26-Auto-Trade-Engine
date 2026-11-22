@@ -1,4 +1,3 @@
-
 # ⚡ Apex-Sweep: 26-Engine Institutional Confluence & Auto-Trade System
 **Advanced Multi-Timeframe Smart Money Concepts (SMC) & Algorithmic Confirmation Engine for TradingView (Pine Script v6)**
 
@@ -28,10 +27,9 @@ To confirm the exact market direction before taking any zone reaction, the engin
 
 ---
 
-<img width="2752" height="1536" alt="Gemini_Generated_Image_kbql59kbql59kbql" src="https://github.com/user-attachments/assets/042c7626-ff58-4f9b-9f31-ce9cd81aa8b5" />
 ### 2. Automated Trade Execution: 26-Engine Live Confluence Scoring & Multi-Timeframe Sync
 
-<!-- මෙතනට ඔයාගේ 15m / 1H Auto-Entry Chart Screenshot එක Attach කරන්න -->
+<img width="2752" height="1536" alt="Gemini_Generated_Image_kbql59kbql59kbql" src="https://github.com/user-attachments/assets/042c7626-ff58-4f9b-9f31-ce9cd81aa8b5" />
 
 #### A. The 26-Engine Live Institutional Dashboard
 - **Real-Time Confluence Calculation:** Positioned cleanly on the right side of the chart, the system continuously evaluates **26 independent analytical engines** in real time.
