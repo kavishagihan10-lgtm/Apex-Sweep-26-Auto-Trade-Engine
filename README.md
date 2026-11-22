@@ -1,3 +1,4 @@
+<img width="1815" height="920" alt="XAUUSD_2026-11-22_23-43-41" src="https://github.com/user-attachments/assets/238b4ae8-1901-4b7a-9c36-c6a663df6a2b" />
 ### 1. How a Trade Forms: HTF Zones (OB + GP) & Dual EMA 200/400 Confirmation
 
 <p align="center">
