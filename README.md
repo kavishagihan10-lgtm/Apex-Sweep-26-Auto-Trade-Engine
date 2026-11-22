@@ -1,9 +1,7 @@
 <img width="1815" height="920" alt="XAUUSD_2026-11-22_23-43-41" src="https://github.com/user-attachments/assets/238b4ae8-1901-4b7a-9c36-c6a663df6a2b" />
 ### 1. How a Trade Forms: HTF Zones (OB + GP) & Dual EMA 200/400 Confirmation
 
-<p align="center">
-  <img src="./XAUUSD_2026-11-22_23-43-41.jpg" alt="HTF Zones & Dual EMA 200/400 Setup" width="100%">
-</p>
+
 
 #### A. Higher-Timeframe Order Blocks (OB) & Golden Pockets (GP) Only
 - **Strict HTF Filtering (Above 15m):** This engine plots Order Blocks and Golden Pockets exclusively from Higher Timeframes (**1H, 4H, and 1D**) — never from noisy lower timeframes.
